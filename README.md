@@ -6,13 +6,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 SeSac Google Cloud기반 인공지능 개발자 과정
+
+
+
+
 --------------------------------
+
+
+
+
 
 웹개발/데이터분석/인공지능을 공부하는 IT 초심자의 성장노트입니다. 매일 공부내용과 과제를 업데이트 합니다. 다양한 스킬 향상으로 repository가 풍성해질 그날을 위해 화이팅!
 
+
+
+
+
 * 🌍  I'm based in SEOUL
-* ✉️  You can contact me at [ugyung87@gmail.con](mailto:ugyung87@gmail.con)
-* 🧠  I'm learning python,data analysis
+
+* ✉️  You can contact me at [ugyung87@gmail.con](mailto:ugyung87@gmail.com)
+  
+* 🧠  I'm learning python,data analysi
+
+
+
 
 ### Skills
 

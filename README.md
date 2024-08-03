@@ -36,4 +36,4 @@ SeSac Google Cloud기반 인공지능 개발자 과정
 
 
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br />

@@ -19,7 +19,7 @@ Google Cloud기반 인공지능 개발자 과정
 
 ### Notion
 
-* 📒  Check out my Notion page: [노린의 노션]([https://www.notion.so/You-Kyung-Google-AI-class-fccc1ea6f42744d7b6591c1dc72f1385](https://www.notion.so/You-Kyung-Google-AI-class-fccc1ea6f42744d7b6591c1dc72f1385))
+* 📒  Check out my Notion page: [노린이의 노션](https://www.notion.so/You-Kyung-Google-AI-class-fccc1ea6f42744d7b6591c1dc72f1385)
 
 ### Socials
 
